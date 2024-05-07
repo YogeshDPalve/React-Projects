@@ -22,7 +22,7 @@ This is a simple React application that allows users to change the background co
 5. Click on the color buttons to change the background color.
 
 ## Screenshots
-![Image]([image_url](https://github.com/YogeshDPalve/React-Projects/blob/main/Project-01/image.png))
+![Image](https://github.com/YogeshDPalve/React-Projects/blob/main/Project-01/image.png)
 
 
 ## Contributions
