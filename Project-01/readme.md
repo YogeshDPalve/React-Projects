@@ -17,7 +17,7 @@ This is a simple React application that allows users to change the background co
 ## How to Use
 1. Clone the repository to your local machine.
 2. Install dependencies using `npm install`.
-3. Run the application using `npm start`.
+3. Run the application using `npm run dev`.
 4. Open the application in your web browser.
 5. Click on the color buttons to change the background color.
 
