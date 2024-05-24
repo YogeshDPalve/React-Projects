@@ -5,3 +5,4 @@
 <h1>Project Names</h1>
 
 <h3>Project-01 (Background Changer)</h3>
+<h3>Project-02 (Password Generator)</h3>
