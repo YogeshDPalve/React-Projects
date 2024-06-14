@@ -6,3 +6,4 @@
 
 <h3>Project-01 (Background Changer)</h3>
 <h3>Project-02 (Password Generator)</h3>
+<h3>Project-03 (Currency Converter)</h3>
